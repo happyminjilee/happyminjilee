@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&text=This is what I studied)
+
 ### Hi there 👋
 
 <!--
